@@ -1,0 +1,5 @@
+<launch>
+    <node name="node_a" pkg="node_talk" type="node_a.py" />
+    <node name="node_b" pkg="node_talk" type="node_b.py" />
+    <node name="node_c" pkg="node_talk" type="node_c.py" />
+</launch>
