@@ -333,3 +333,5 @@ build/
 devel/
 .catkin_workspace
 .vscode/
+
+.zip
